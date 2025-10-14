@@ -3,18 +3,14 @@ public:
     bool hasIncreasingSubarrays(vector<int>& nums, int k) {
         int n = nums.size();
         auto increasing = [&](int start) {
-            for (int i = start; i < start + k - 1; i++) {
-                if (nums[i] >= nums[i + 1]) {
+            for(int i=start;i<start+k-1;i++)
+                if(nums[i]>=nums[i+1])
                     return false;
-                }
-            }
             return true;
         };
-        for (int i = 0; i + 2 * k - 1 < n; i++) {
-            if (increasing(i) && increasing(i + k)) {
+        for(int i=0;i+2*k-1<n;i++)
+            if(increasing(i) && increasing(i+k))
                 return true;
-            }
-        }
         return false;
     }
 };
