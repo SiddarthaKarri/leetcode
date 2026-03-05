@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
+| [0155-min-stack](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0739-daily-temperatures](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/2390-removing-stars-from-a-string/) | Medium |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0901-online-stock-span](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
