@@ -11,37 +11,52 @@
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
-        vector<ListNode*> arr;
-        ListNode* temp=head;
-        while(temp!=NULL){
-            arr.push_back(temp);
-            temp = temp->next;
-        }
-        ListNode* hd=NULL,*fst=NULL;
-        for(auto i:arr){
-            if(i->val<x){
-                if(hd==NULL){
-                    hd=i;
-                    fst=i;
-                } else{
-                    fst->next=i;
-                    fst=i;
-                }
+        ListNode ls(0),gt(0);
+        ListNode *hls=&ls, *hgt=&gt;
+        while(head){
+            if(head->val<x){
+                hls->next=head;
+                hls = hls->next;
+            }else{
+                hgt->next=head;
+                hgt=hgt->next;
             }
+            head = head->next;
         }
-        for(auto i:arr){
-            if(i->val>=x){
-                if(hd==NULL){
-                    hd=i;
-                    fst=i;
-                } else{
-                    fst->next=i;
-                    fst=i;
-                }
-            }
-        }
-        if(fst) 
-            fst->next = NULL;
-        return hd;
+        hgt->next=nullptr;
+        hls->next=gt.next;
+        return ls.next;
+        // vector<ListNode*> arr;
+        // ListNode* temp=head;
+        // while(temp!=NULL){
+        //     arr.push_back(temp);
+        //     temp = temp->next;
+        // }
+        // ListNode* hd=NULL,*fst=NULL;
+        // for(auto i:arr){
+        //     if(i->val<x){
+        //         if(hd==NULL){
+        //             hd=i;
+        //             fst=i;
+        //         } else{
+        //             fst->next=i;
+        //             fst=i;
+        //         }
+        //     }
+        // }
+        // for(auto i:arr){
+        //     if(i->val>=x){
+        //         if(hd==NULL){
+        //             hd=i;
+        //             fst=i;
+        //         } else{
+        //             fst->next=i;
+        //             fst=i;
+        //         }
+        //     }
+        // }
+        // if(fst) 
+        //     fst->next = NULL;
+        // return hd;
     }
 };
