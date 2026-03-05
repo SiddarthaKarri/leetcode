@@ -13,12 +13,12 @@ public:
     void reorderList(ListNode* head) {
         // arr save + 2 pointer
         // tot + hare
-        ListNode* slow=head,fast=head;
+        ListNode* slow=head,*fast=head;
         while(fast!=NULL && fast->next!=NULL){
             slow = slow->next;
             fast = fast->next->next;
         }
-        if(fast->next)
+        if(fast)
             slow = slow->next;
         ListNode *prev=NULL;
         while(slow){
@@ -36,7 +36,7 @@ public:
             head=fast;
             slow=prev;
         }
-        if(head && head->next)
-            head->next->next = NULL;
+        if(head)
+            head->next = NULL;
     }
 };
