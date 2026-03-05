@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0739-daily-temperatures](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -45,5 +46,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
+| [0739-daily-temperatures](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/2390-removing-stars-from-a-string/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
