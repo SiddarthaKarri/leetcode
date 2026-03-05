@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0143-reorder-list](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0086-partition-list](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0086-partition-list/) | Medium |
 | [0143-reorder-list](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
