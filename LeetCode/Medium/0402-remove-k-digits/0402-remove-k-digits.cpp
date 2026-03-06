@@ -20,12 +20,19 @@ public:
             res += st.top();
             st.pop();
         }
+        if (res.empty())
+            return "0";
+        vector<int> fq(10,0);
+        for(char i:res){
+            int c=i-'0';
+            fq[c]++;
+        }
+        if(res.size()==fq[0])
+            return "0";
         while (res.size() != 0 && res.back() == '0') {
             res.pop_back();
         }
         reverse(res.begin(), res.end());
-        if (res.empty())
-            return "0";
         return res;
     }
 };
