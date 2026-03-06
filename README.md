@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0739-daily-temperatures](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -80,4 +81,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
