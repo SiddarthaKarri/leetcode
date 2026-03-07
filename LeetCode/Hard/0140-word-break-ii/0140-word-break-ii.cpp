@@ -39,7 +39,9 @@ public:
 class Solution {
 public:
 
-    vector<string> dfs(int index, string &s, Node* root) {
+    vector<string> dfs(int index, string &s, Node* root,unordered_map<int, vector<string>>& memo) {
+        if(memo.count(index))
+            return memo[index];
         if(index == s.size())
             return {""};
         vector<string> result;
@@ -50,7 +52,7 @@ public:
             node = node->get(s[i]);
             if(node->isEnd()){
                 string word = s.substr(index, i-index+1);
-                vector<string> rest = dfs(i+1,s,root);
+                vector<string> rest = dfs(i+1,s,root,memo);
                 for(string &sentence:rest){
                     if(sentence == "")
                         result.push_back(word);
@@ -59,6 +61,7 @@ public:
                 }
             }
         }
+        memo[index] = result;
         return result;
     }
 
@@ -66,6 +69,7 @@ public:
         Trie trie;
         for(auto &w : wordDict)
             trie.insert(w);
-        return dfs(0, s, trie.root);
+        unordered_map<int, vector<string>> memo;
+        return dfs(0, s, trie.root,memo);
     }
 };
