@@ -1,13 +1,12 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        for(int i=1;i<nums.size();i++){
-            if(nums[i-1]==nums[i] && nums[i]==nums[i+1])
-                continue;
-            else
-                return i-1;
+        sort(nums.begin(),nums.end());
+        for(int i=1;i<nums.size();i+=3){
+            if(nums[i-1]!=nums[i])
+                return nums[i-1];
         }
-        return -1;
+        return nums[nums.size()-1];
         // int res = 0;
         // for(int i=0;i<32;i++){
         //     int sum = 0;
