@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0086-partition-list](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0086-partition-list/) | Medium |
 | [0143-reorder-list](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
+| [0146-lru-cache](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0901-online-stock-span](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 ## Data Stream
@@ -98,4 +100,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
