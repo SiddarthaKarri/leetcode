@@ -5,7 +5,7 @@ public:
             return INT_MAX;
         long long a = abs((long long)dividend);
         long long b = abs((long long)divisor);
-        int ans = 0;
+        long long ans = 0;
         while(a >= b){
             long long temp = b;
             int multiple = 1;
@@ -18,7 +18,6 @@ public:
         }
         if((dividend > 0) ^ (divisor > 0))
             ans = -ans;
-
         return ans;
     }
 };
