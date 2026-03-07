@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0139-word-break](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0140-word-break-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -161,5 +163,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0029-divide-two-integers/) | Medium |
+| [0078-subsets](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/2220-minimum-bit-flips-to-convert-number/) | Easy |
 <!---LeetCode Topics End-->
