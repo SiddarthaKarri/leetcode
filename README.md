@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0402-remove-k-digits](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
+| [0472-concatenated-words](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0472-concatenated-words/) | Hard |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
+| [0472-concatenated-words](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0472-concatenated-words/) | Hard |
 | [0739-daily-temperatures](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0139-word-break](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
+| [0472-concatenated-words](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0472-concatenated-words/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Greedy
@@ -132,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
+| [0472-concatenated-words](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0472-concatenated-words/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,4 +145,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0140-word-break-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0472-concatenated-words](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0472-concatenated-words/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0472-concatenated-words](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0472-concatenated-words/) | Hard |
 <!---LeetCode Topics End-->
