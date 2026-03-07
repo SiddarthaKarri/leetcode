@@ -56,6 +56,11 @@ public:
         return memo[index]=false;
     }
     vector<string> findAllConcatenatedWordsInADict(vector<string>& words) {
+        // for optimisation
+        sort(words.begin(),words.end(),[](string &a,string &b){
+            return a.size()<b.size();
+        });
+        //  Sort words by length and Check first and Insert later
         Trie trie;
         for(auto &w : words)
             trie.insert(w);
