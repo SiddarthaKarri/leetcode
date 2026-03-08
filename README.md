@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/2390-removing-stars-from-a-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1980-find-unique-binary-string](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0460-lfu-cache](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0460-lfu-cache/) | Hard |
+| [1980-find-unique-binary-string](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0078-subsets](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0140-word-break-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
+| [1980-find-unique-binary-string](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
