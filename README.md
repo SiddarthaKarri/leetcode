@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
 | [0139-word-break](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
+| [0204-count-primes](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0260-single-number-iii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0260-single-number-iii/) | Medium |
 | [0472-concatenated-words](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0472-concatenated-words/) | Hard |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0029-divide-two-integers/) | Medium |
+| [0204-count-primes](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,4 +175,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0260-single-number-iii/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/2220-minimum-bit-flips-to-convert-number/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
