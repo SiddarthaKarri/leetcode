@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
+| [0743-network-delay-time](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 ## Monotonic Queue
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0210-course-schedule-ii/) | Medium |
 | [0472-concatenated-words](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0472-concatenated-words/) | Hard |
+| [0743-network-delay-time](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0210-course-schedule-ii/) | Medium |
+| [0743-network-delay-time](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -216,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0210-course-schedule-ii/) | Medium |
+| [0743-network-delay-time](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
 ## Topological Sort
@@ -235,5 +239,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
