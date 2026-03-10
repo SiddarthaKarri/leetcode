@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0472-concatenated-words](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0472-concatenated-words/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -190,4 +191,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
