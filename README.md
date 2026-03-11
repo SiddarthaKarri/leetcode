@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0260-single-number-iii/) | Medium |
+| [1009-complement-of-base-10-integer](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/1009-complement-of-base-10-integer/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
