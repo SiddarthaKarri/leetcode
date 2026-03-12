@@ -19,7 +19,7 @@ public:
         for(int city=0;city<n;city++){
             int cnt = 0;
             for(int adjCity=0;adjCity<n;adjCity++)
-                if(dist[city][adjCity]<=distanceThreshold)
+                if(adjCity!=city && dist[city][adjCity]<=distanceThreshold)
                     cnt++;
             if(cnt<=cntCity){
                 cntCity = cnt;
