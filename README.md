@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0472-concatenated-words](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0472-concatenated-words/) | Hard |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0078-subsets](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0140-word-break-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
