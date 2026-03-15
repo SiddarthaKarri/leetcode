@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0460-lfu-cache](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0460-lfu-cache/) | Hard |
 | [0901-online-stock-span](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
+| [1622-fancy-sequence](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0029-divide-two-integers/) | Medium |
 | [0204-count-primes](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+| [1622-fancy-sequence](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -264,4 +266,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
 <!---LeetCode Topics End-->
