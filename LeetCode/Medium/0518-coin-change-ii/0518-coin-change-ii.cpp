@@ -24,18 +24,35 @@ public:
         // return help(coins,n-1,amount,dp);
 
         // tabulation
-        vector<vector<unsigned long long>> dp(n,vector<unsigned long long>(amount+1,0));
+        // vector<vector<unsigned long long>> dp(n,vector<unsigned long long>(amount+1,0));
+        // for(int i=0;i<=amount;i++)
+        //     if(i%coins[0]==0)
+        //         dp[0][i] = 1;
+        // for(int ind=1;ind<n;ind++){
+        //     for(int tar=0;tar<=amount;tar++){
+        //         unsigned long long notpic = dp[ind-1][tar],pic=0;
+        //         if(coins[ind]<=tar)
+        //             pic = dp[ind][tar-coins[ind]];
+        //         dp[ind][tar] = notpic+pic;
+        //     }
+        // }
+        // return dp[n-1][amount];
+
+        // optimised
+        vector<unsigned long long> prev(amount + 1, 0);
         for(int i=0;i<=amount;i++)
-            if(i%coins[0]==0)
-                dp[0][i] = 1;
+            if(i%arr[0]==0)
+                prev[i] = 1; 
         for(int ind=1;ind<n;ind++){
-            for(int tar=0;tar<=amount;tar++){
-                unsigned long long notpic = dp[ind-1][tar],pic=0;
-                if(coins[ind]<=tar)
-                    pic = dp[ind][tar-coins[ind]];
-                dp[ind][tar] = notpic+pic;
+            vector<unsigned long long> cur(amount+1,0);
+            for(int target=0;target<=amount;target++){
+                unsigned long long notpic=prev[target],pic=0;
+                if(arr[ind]<=target)
+                    pic = cur[target-arr[ind]]; 
+                cur[target] = notpic + pic; 
             }
+            prev = cur; 
         }
-        return dp[n-1][amount];
+        return prev[amount]; 
     }
 };
