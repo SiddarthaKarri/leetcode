@@ -24,15 +24,15 @@ public:
         // return help(coins,n-1,amount,dp);
 
         // tabulation
-        vector<vector<int>> dp(n, vector<int>(T + 1, 0));
+        vector<vector<unsigned long long>> dp(n,vector<unsigned long long>(amount+1,0));
         for(int i=0;i<=amount;i++)
-            if(i%arr[0]==0)
+            if(i%coins[0]==0)
                 dp[0][i] = 1;
         for(int ind=1;ind<n;ind++){
             for(int tar=0;tar<=amount;tar++){
-                int notpic = dp[ind-1][tar],pic=0;
-                if(arr[ind]<=tar)
-                    pic = dp[ind][tar-arr[ind]];
+                unsigned long long notpic = dp[ind-1][tar],pic=0;
+                if(coins[ind]<=tar)
+                    pic = dp[ind][tar-coins[ind]];
                 dp[ind][tar] = notpic+pic;
             }
         }
