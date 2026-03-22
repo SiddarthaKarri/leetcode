@@ -41,14 +41,14 @@ public:
         // optimised
         vector<unsigned long long> prev(amount + 1, 0);
         for(int i=0;i<=amount;i++)
-            if(i%arr[0]==0)
+            if(i%coins[0]==0)
                 prev[i] = 1; 
         for(int ind=1;ind<n;ind++){
             vector<unsigned long long> cur(amount+1,0);
             for(int target=0;target<=amount;target++){
                 unsigned long long notpic=prev[target],pic=0;
-                if(arr[ind]<=target)
-                    pic = cur[target-arr[ind]]; 
+                if(coins[ind]<=target)
+                    pic = cur[target-coins[ind]]; 
                 cur[target] = notpic + pic; 
             }
             prev = cur; 
