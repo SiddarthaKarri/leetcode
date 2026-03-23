@@ -34,14 +34,14 @@ public:
         // return res.first%1000000007;
 
         // tabulation
-        int m=g.size(),n=g[0].size();
+        int m=grid.size(),n=grid[0].size();
         vector<vector<pair<long long,long long>>> dp(m,vector<pair<long long,long long>>(n));
-        dp[0][0]={g[0][0],g[0][0]};
+        dp[0][0]={grid[0][0],grid[0][0]};
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(i==0&&j==0) 
                     continue;
-                long long v=g[i][j],mx=LLONG_MIN,mn=LLONG_MAX;
+                long long v=grid[i][j],mx=LLONG_MIN,mn=LLONG_MAX;
                 if(i>0){
                     auto [a,b]=dp[i-1][j];
                     mx=max({mx,a*v,b*v});
