@@ -15,12 +15,12 @@ public:
         }
         int i=n,j=m;
         string ans = "";
-        while(i>0&&j>0){
+        while(i>0 && j>0){
             if(s[i-1]==t[j-1]){
                 ans += s[i-1];
                 i--;
                 j--;
-            }else if(dp[i-1][j]>dp[i][j-1]){
+            }else if(dp[i-1][j]>=dp[i][j-1]){
                 ans += s[i-1];
                 i--;
             }else{
