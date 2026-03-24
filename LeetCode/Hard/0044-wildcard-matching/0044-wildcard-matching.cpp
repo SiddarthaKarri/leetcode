@@ -1,31 +1,54 @@
 class Solution {
 public:
-    // opt
+    // greed
     bool isMatch(string s, string p) {
-        int n = p.size(), m = s.size();
-        vector<bool> prev(m+1, false), cur(m+1, false);
-        prev[0] = true;
-        for(int i=1;i<=n;i++){
-            bool chk = true;
-            for(int k=1;k<=i;k++){
-                if(p[k-1] != '*') {
-                    chk = false;
-                    break;
-                }
-            }
-            cur[0] = chk;
-            for(int j=1;j<=m;j++){
-                if(p[i-1] == s[j-1] || p[i-1] == '?')
-                    cur[j] = prev[j-1];
-                else if(p[i-1] == '*')
-                    cur[j] = prev[j] || cur[j-1];
-                else 
-                    cur[j] = false;
-            }
-            prev = cur;
+        int i=0,j=0,star=-1,match=0;
+        while(i<s.size()){
+            if(j<p.size() && (p[j]==s[i] || p[j]=='?')){
+                i++;
+                j++;
+            }else if(j<p.size() && p[j]=='*'){
+                star = j;
+                match = i;
+                j++;
+            }else if(star!=-1){
+                j = star + 1;
+                match++;
+                i = match;
+            }else
+                return false;
         }
-        return prev[m];
+        while(j<p.size() && p[j]=='*')
+            j++;
+        return j==p.size();
     }
+
+    // opt
+    // bool isMatch(string s, string p) {
+    //     int n = p.size(), m = s.size();
+    //     vector<bool> prev(m+1, false), cur(m+1, false);
+    //     prev[0] = true;
+    //     for(int i=1;i<=n;i++){
+    //         bool chk = true;
+    //         for(int k=1;k<=i;k++){
+    //             if(p[k-1] != '*') {
+    //                 chk = false;
+    //                 break;
+    //             }
+    //         }
+    //         cur[0] = chk;
+    //         for(int j=1;j<=m;j++){
+    //             if(p[i-1] == s[j-1] || p[i-1] == '?')
+    //                 cur[j] = prev[j-1];
+    //             else if(p[i-1] == '*')
+    //                 cur[j] = prev[j] || cur[j-1];
+    //             else 
+    //                 cur[j] = false;
+    //         }
+    //         prev = cur;
+    //     }
+    //     return prev[m];
+    // }
 
     // tab
     // bool isMatch(string s, string p) {
