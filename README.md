@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0140-word-break-ii/) | Hard |
