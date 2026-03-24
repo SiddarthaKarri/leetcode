@@ -20,7 +20,7 @@ public:
 
         // tabulation
         int n=s.size(),m=t.size();
-        vector<vector<long long>> dp(n+1,vector<longlong>(m+1,0));
+        vector<vector<unsigned long long>> dp(n+1,vector<unsigned long long>(m+1,0));
         for(int i=0;i<=n;i++)
             dp[i][m] = 1;
         for(int i=n-1;i>=0;i--){
