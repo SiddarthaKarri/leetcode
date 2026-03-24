@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0024-swap-nodes-in-pairs/) | Medium |
+| [0044-wildcard-matching](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
 | [0143-reorder-list](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
@@ -148,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
 | [0402-remove-k-digits](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
