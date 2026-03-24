@@ -14,7 +14,7 @@ public:
             }
             prev=cur;
         }
-        return cur[n];
+        return prev[n];
     }
     int longestPalindromeSubseq(string s) {
         string t=s;
