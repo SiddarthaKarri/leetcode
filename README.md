@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
 | [0472-concatenated-words](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0472-concatenated-words/) | Hard |
 | [0518-coin-change-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0518-coin-change-ii/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0739-daily-temperatures](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0518-coin-change-ii/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0583-delete-operation-for-two-strings/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0402-remove-k-digits](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -251,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0368-largest-divisible-subset](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
 | [0472-concatenated-words](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0472-concatenated-words/) | Hard |
+| [0646-maximum-length-of-pair-chain](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [1048-longest-string-chain](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
