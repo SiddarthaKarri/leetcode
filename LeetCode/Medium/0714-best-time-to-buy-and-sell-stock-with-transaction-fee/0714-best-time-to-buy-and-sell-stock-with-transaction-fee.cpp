@@ -28,7 +28,7 @@ public:
                     pft = max(nxt[0], -prices[ind]+nxt[1]);
                 if(buy==1)
                     // pft = max(dp[ind+1][1], prices[ind]-fee+dp[ind+1][0]);
-                    pft = max(nxt[1], prices[ind]+nxt[0]);
+                    pft = max(nxt[1], prices[ind]-fee+nxt[0]);
                 // dp[ind][buy]=pft;
                 cur[buy]=pft;
             }
