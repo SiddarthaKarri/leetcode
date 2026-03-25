@@ -38,6 +38,6 @@ public:
             ahead = cur;
         }
         // return dp[0][0][2];
-        return cur[n];
+        return cur[0][2];
     }
 };
