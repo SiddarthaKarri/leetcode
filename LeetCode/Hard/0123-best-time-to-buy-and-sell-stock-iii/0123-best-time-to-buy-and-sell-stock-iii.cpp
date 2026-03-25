@@ -22,9 +22,9 @@ public:
             for(int buy=0;buy<=1;buy++){
                 for(int cap=1;cap<=2;cap++){
                     if(buy==0)
-                        dp[ind][buy][cap] = max(dp[ind+1][0][cap], -Arr[ind]+dp[ind+1][1][cap]);
+                        dp[ind][buy][cap] = max(dp[ind+1][0][cap], -prices[ind]+dp[ind+1][1][cap]);
                     if(buy==1)
-                        dp[ind][buy][cap] = max(dp[ind+1][1][cap],Arr[ind]+dp[ind+1][0][cap-1]);
+                        dp[ind][buy][cap] = max(dp[ind+1][1][cap],prices[ind]+dp[ind+1][0][cap-1]);
                 }
             }
         }
