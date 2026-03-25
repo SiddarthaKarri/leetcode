@@ -24,6 +24,7 @@ public:
             i = par[i]; 
         }
         ans.push_back(nums[i]);
+        reverse(ans.begin(),ans.end());
         return ans;
 
         // sort(nums.begin(), nums.end());
