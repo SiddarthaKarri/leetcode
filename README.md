@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0583-delete-operation-for-two-strings/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1048-longest-string-chain](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/1092-shortest-common-supersequence/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0086-partition-list](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0086-partition-list/) | Medium |
 | [0143-reorder-list](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
+| [1048-longest-string-chain](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0739-daily-temperatures](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
+| [1048-longest-string-chain](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -156,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0907-sum-of-subarray-minimums/) | Medium |
+| [1048-longest-string-chain](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/1092-shortest-common-supersequence/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -204,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0460-lfu-cache](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0460-lfu-cache/) | Hard |
+| [1048-longest-string-chain](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -244,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0368-largest-divisible-subset](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
 | [0472-concatenated-words](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0472-concatenated-words/) | Hard |
+| [1048-longest-string-chain](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
