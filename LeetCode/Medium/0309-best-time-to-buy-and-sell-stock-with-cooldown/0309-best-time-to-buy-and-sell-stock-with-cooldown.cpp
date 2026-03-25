@@ -18,23 +18,24 @@ public:
         //     return 0;
         // return memo(prices,0,0,dp);
         int n=prices.size();
-        vector<vector<long>> dp(n+2,vector<long>(2,0));
-        // vector<long> nxt(2,-1), cur(2,-1);
+        // vector<vector<long>> dp(n+2,vector<long>(2,0));
+        vector<long> nxt(2,0), cur(2,0), nxt2(2,0);
         for(int ind=n-1;ind>=0;ind--){
             for(int buy=0;buy<=1;buy++){
                 long pft=0;
                 if(buy==0)
-                    pft = max(dp[ind+1][0], -prices[ind]+dp[ind+1][1]);
-                    // pft = max(nxt[0], -prices[ind]+nxt[1]);
+                    // pft = max(dp[ind+1][0], -prices[ind]+dp[ind+1][1]);
+                    pft = max(nxt[0], -prices[ind]+nxt[1]);
                 if(buy==1)
-                    pft = max(dp[ind+1][1], prices[ind]+dp[ind+2][0]);
-                    // pft = max(nxt[1], prices[ind]+nxt[0]);
-                dp[ind][buy]=pft;
-                // cur[buy]=pft;
+                    // pft = max(dp[ind+1][1], prices[ind]+dp[ind+2][0]);
+                    pft = max(nxt[1], prices[ind]+nxt2[0]);
+                // dp[ind][buy]=pft;
+                cur[buy]=pft;
             }
-            // nxt = cur;
+            nxt2=nxt;
+            nxt = cur;
         }
-        return dp[0][0];
-        // return cur[0];
+        // return dp[0][0];
+        return cur[0];
     }
 };
