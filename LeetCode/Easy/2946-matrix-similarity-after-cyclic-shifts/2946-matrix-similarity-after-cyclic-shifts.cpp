@@ -9,7 +9,7 @@ public:
                     if(mat[i][j]!=mat[i][(j+k)%n])
                         return false;
                 } else {
-                    if(mat[i][j]!=mat[i][(j+k)%n])
+                    if(mat[i][j]!=mat[i][(j-k+n)%n])
                         return false;
                 }
             }
