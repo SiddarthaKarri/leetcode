@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2573-find-the-string-with-lcp](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3111-minimum-rectangles-to-cover-points](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/3111-minimum-rectangles-to-cover-points/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
+| [3111-minimum-rectangles-to-cover-points](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/3111-minimum-rectangles-to-cover-points/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Queue
@@ -272,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1048-longest-string-chain](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [3111-minimum-rectangles-to-cover-points](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/3111-minimum-rectangles-to-cover-points/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Math
 | Problem Name | Difficulty |
