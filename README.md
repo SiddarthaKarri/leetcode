@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0260-single-number-iii/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0472-concatenated-words](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0472-concatenated-words/) | Hard |
 | [0518-coin-change-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0518-coin-change-ii/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0402-remove-k-digits](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0368-largest-divisible-subset](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0472-concatenated-words](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0472-concatenated-words/) | Hard |
 | [0646-maximum-length-of-pair-chain](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [1048-longest-string-chain](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
