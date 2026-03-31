@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0460-lfu-cache](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0460-lfu-cache/) | Hard |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1048-longest-string-chain](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 ## Doubly-Linked List
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -321,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 ## Graph Theory
@@ -375,4 +378,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
