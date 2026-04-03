@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    TreeNode* prev = nullptr;
+    // TreeNode* prev = nullptr;
     void flatten(TreeNode* root) {
         if(!root)
             return;
@@ -22,18 +22,32 @@ public:
         // prev=root;
 
         // stack
-        stack<TreeNode*> st;
-        st.push(root);
-        while(!st.empty()){
-            TreeNode* cur = st.top();
-            st.pop();
-            if(cur->right!=nullptr) 
-                st.push(cur->right);
-            if(cur->left!=nullptr) 
-                st.push(cur->left);
-            if(!st.empty())
-                cur->right = st.top();
-            cur->left = nullptr;
+        // stack<TreeNode*> st;
+        // st.push(root);
+        // while(!st.empty()){
+        //     TreeNode* cur = st.top();
+        //     st.pop();
+        //     if(cur->right!=nullptr) 
+        //         st.push(cur->right);
+        //     if(cur->left!=nullptr) 
+        //         st.push(cur->left);
+        //     if(!st.empty())
+        //         cur->right = st.top();
+        //     cur->left = nullptr;
+        // }
+
+        // while loop
+        TreeNode* curr = root;
+        while(curr){
+            if(curr->left){
+                TreeNode* pre = curr->left;
+                while(pre->right) 
+                    pre = pre->right;
+                pre->right = curr->right;
+                curr->right = curr->left;
+                curr->left = NULL;
+            }
+            curr = curr->right;
         }
     }
 };
