@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0086-partition-list](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0086-partition-list/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0460-lfu-cache](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0460-lfu-cache/) | Hard |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0402-remove-k-digits](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0207-course-schedule](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0210-course-schedule-ii/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -400,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -408,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/0222-count-complete-tree-nodes/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
