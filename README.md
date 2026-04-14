@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3643-flip-square-submatrix-vertically](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
 | [1048-longest-string-chain](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
