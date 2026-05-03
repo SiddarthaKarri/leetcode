@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0472-concatenated-words](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/0472-concatenated-words/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0583-delete-operation-for-two-strings/) | Medium |
+| [0796-rotate-string](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1048-longest-string-chain](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/1092-shortest-common-supersequence/) | Hard |
@@ -439,4 +440,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Hard/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/SiddarthaKarri/leetcode/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
